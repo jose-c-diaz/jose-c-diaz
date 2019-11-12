@@ -3,7 +3,7 @@
 title: Jose C Diaz
 locale: en_US
 description: My personal website.
-logo: site-logo.png
+logo: jose-diaz-face.png
 url: https://jose-c-diaz.github.io/
 
 # Jekyll configuration
@@ -37,7 +37,7 @@ comments: true
 # Site owner
 owner:
   name: Jose C Diaz
-  avatar: 
+  avatar: jose-diaz-face.png
   email: 
   disqus-shortname: 
   twitter:
